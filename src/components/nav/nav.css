@@ -1,0 +1,24 @@
+.nav{
+    display: flex;
+    background-color: darkcyan;
+    
+    height: 150px;
+    color: black;
+    text-decoration: none;
+
+    
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+   
+    width: 30%;
+    margin-left: 150px;
+}
+.list li{
+    font-size: 30px;
+    padding: 5px;
+    list-style: none;
+    
+}
+
